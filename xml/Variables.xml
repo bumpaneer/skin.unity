@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<includes>
+	<variable name="VideoPlayerForwardRewindVar">
+		<value condition="Player.Forwarding2x | Player.Rewinding2x">2x</value>
+		<value condition="Player.Forwarding4x | Player.Rewinding4x">4x</value>
+		<value condition="Player.Forwarding8x | Player.Rewinding8x">8x</value>
+		<value condition="Player.Forwarding16x | Player.Rewinding16x">16x</value>
+		<value condition="Player.Forwarding32x | Player.Rewinding32x">32x</value>
+	</variable>
+	<variable name="SeekLabel">
+		<value condition="Player.Paused">$LOCALIZE[112]</value>
+		<value condition="Player.Forwarding">$LOCALIZE[31044] $VAR[VideoPlayerForwardRewindVar]</value>
+		<value condition="Player.Rewinding">$LOCALIZE[31045] $VAR[VideoPlayerForwardRewindVar]</value>
+		<value condition="!String.IsEmpty(Player.SeekStepSize)">$LOCALIZE[31046] $INFO[Player.SeekStepSize] • $INFO[player.chapter,$LOCALIZE[21396]  ]$INFO[player.chaptercount, / ]</value>
+		<value condition="!String.IsEmpty(Player.SeekOffset) + Player.DisplayAfterSeek">$LOCALIZE[31046] $INFO[Player.SeekOffset] • $INFO[player.chapter,$LOCALIZE[21396]  ]$INFO[player.chaptercount, / ]</value>
+	</variable>
+</includes>

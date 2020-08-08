@@ -17,6 +17,7 @@
 	<include file="IncludesPVR.xml" />
 	<include file="IncludesWidgets.xml" />
 	<include file="IncludesDialogSelect.xml" />
+	<include file="Variables.xml" />
 	<constant name="FanartCrossfadeTime">500</constant>
 	<constant name="IconCrossfadeTime">400</constant>
 	<variable name="MusicInfoHeader">
