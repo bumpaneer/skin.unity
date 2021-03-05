@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: KODI Skins\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2021-02-23 08:14+0000\n"
+"PO-Revision-Date: 2021-03-05 23:28+0000\n"
 "Last-Translator: Christian Gade <gade@kodi.tv>\n"
 "Language-Team: Portuguese (Portugal) <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-unity/pt_pt/>\n"
 "Language: pt_pt\n"
@@ -303,7 +303,7 @@ msgstr "Ocultar botões do Menu Principal"
 
 msgctxt "#31109"
 msgid "Enable Custom Background"
-msgstr "Activar ecrã de fundo personalizado."
+msgstr "Activar ecrã de fundo personalizado"
 
 msgctxt "#31110"
 msgid "Background path:"
@@ -525,7 +525,7 @@ msgstr "[B]Temporizador activado![/B] [COLOR=grey2] - Sistema vai desligar-se em
 
 msgctxt "#31330"
 msgid "Click button to play[CR][CR]Movie trailer"
-msgstr "Clique no botão para reproduzir [CR][CR]o trailer do filme"
+msgstr "Clique no botão para reproduzir[CR][CR]o trailer do filme"
 
 msgctxt "#31331"
 msgid "Album Details"
