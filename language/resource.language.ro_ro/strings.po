@@ -289,6 +289,10 @@ msgctxt "#31104"
 msgid "Play Trailers in a window (Video Information Dialogue Only)"
 msgstr "Redați trailerele într-o fereastră (doar dialogul cu informații video)"
 
+msgctxt "#31105"
+msgid "Mask background to hide submenu under transparent main menu"
+msgstr ""
+
 msgctxt "#31106"
 msgid "Miscellaneous options"
 msgstr "Opțiuni diverse"
@@ -344,6 +348,14 @@ msgstr "Submeniu Programe în Pagina inițială"
 msgctxt "#31119"
 msgid "Hide Background Fanart"
 msgstr "Ascunde fundal (Fanart)"
+
+msgctxt "#31120"
+msgid "Single Image"
+msgstr ""
+
+msgctxt "#31121"
+msgid "Multi-Image"
+msgstr ""
 
 msgctxt "#31124"
 msgid "Show Background \"Now Playing\" Video"
@@ -412,6 +424,10 @@ msgstr "Deschideți întotdeauna redarea de muzică pe ecran complet"
 msgctxt "#31200"
 msgid "Shortcuts"
 msgstr "Scurtături"
+
+msgctxt "#31201"
+msgid "Experimental"
+msgstr ""
 
 msgctxt "#31203"
 msgid "Choose Your Song"

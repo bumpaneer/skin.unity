@@ -291,6 +291,10 @@ msgctxt "#31104"
 msgid "Play Trailers in a window (Video Information Dialogue Only)"
 msgstr ""
 
+msgctxt "#31105"
+msgid "Mask background to hide submenu under transparent main menu"
+msgstr ""
+
 # empty string with id 31105
 msgctxt "#31106"
 msgid "Miscellaneous options"
@@ -347,6 +351,14 @@ msgstr ""
 msgctxt "#31119"
 msgid "Hide Background Fanart"
 msgstr "பின்னணி வரைபடத்தை மறை"
+
+msgctxt "#31120"
+msgid "Single Image"
+msgstr ""
+
+msgctxt "#31121"
+msgid "Multi-Image"
+msgstr ""
 
 msgctxt "#31124"
 msgid "Show Background \"Now Playing\" Video"
@@ -418,6 +430,10 @@ msgstr ""
 msgctxt "#31200"
 msgid "Shortcuts"
 msgstr "குறுக்குவழிகள்"
+
+msgctxt "#31201"
+msgid "Experimental"
+msgstr ""
 
 # empty strings from id 31201 to 31202
 msgctxt "#31203"

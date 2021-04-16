@@ -290,6 +290,10 @@ msgctxt "#31104"
 msgid "Play Trailers in a window (Video Information Dialogue Only)"
 msgstr ""
 
+msgctxt "#31105"
+msgid "Mask background to hide submenu under transparent main menu"
+msgstr ""
+
 msgctxt "#31106"
 msgid "Miscellaneous options"
 msgstr "Разне опције"
@@ -345,6 +349,14 @@ msgstr ""
 msgctxt "#31119"
 msgid "Hide Background Fanart"
 msgstr "Сакриј позадинску занимљиву слику"
+
+msgctxt "#31120"
+msgid "Single Image"
+msgstr ""
+
+msgctxt "#31121"
+msgid "Multi-Image"
+msgstr ""
 
 msgctxt "#31124"
 msgid "Show Background \"Now Playing\" Video"
@@ -417,6 +429,10 @@ msgstr "Увек отвори репродукцију музике преко �
 msgctxt "#31200"
 msgid "Shortcuts"
 msgstr "Пречице"
+
+msgctxt "#31201"
+msgid "Experimental"
+msgstr ""
 
 msgctxt "#31203"
 msgid "Choose Your Song"
