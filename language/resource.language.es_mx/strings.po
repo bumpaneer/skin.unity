@@ -7,27 +7,27 @@ msgstr ""
 "Project-Id-Version: KODI Skins\n"
 "Report-Msgid-Bugs-To: http://trac.kodi.tv/\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2021-05-25 10:08+0000\n"
-"Last-Translator: Christian Gade <gade@kodi.tv>\n"
+"PO-Revision-Date: 2021-07-01 10:29+0000\n"
+"Last-Translator: Edson Armando <edsonarmando78@outlook.com>\n"
 "Language-Team: Spanish (Mexico) <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-unity/es_mx/>\n"
 "Language: es_mx\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.6.2\n"
+"X-Generator: Weblate 4.7.1\n"
 
 msgctxt "Addon Summary"
 msgid "A material skin for Kodi by Eddage"
-msgstr ""
+msgstr "Una máscara material para Kodi por Eddage"
 
 msgctxt "Addon Description"
 msgid "Unity is an adaptation of Confluence based on a material design."
-msgstr ""
+msgstr "Unity es una adaptación de Confluence basado en diseño material."
 
 msgctxt "Addon Disclaimer"
 msgid "More info on the skin can be found at the Kodi Forums."
-msgstr ""
+msgstr "Más información de la máscara en los foros de Kodi."
 
 msgctxt "#31000"
 msgid "Change Your"
@@ -43,7 +43,7 @@ msgstr "[B]CONFIGURACION DE JUEGOS[/B][CR][CR]Configurar soporte de rebobinado &
 
 msgctxt "#31003"
 msgid "Power Options"
-msgstr "Opciones de Energía"
+msgstr "Opciones de energía"
 
 msgctxt "#31004"
 msgid "Working..."
@@ -55,19 +55,19 @@ msgstr "Esconder Información"
 
 msgctxt "#31006"
 msgid "View Options"
-msgstr "Opciones de Vista"
+msgstr "Opciones de vista"
 
 msgctxt "#31007"
 msgid "Enable playlist at startup"
-msgstr ""
+msgstr "Activar lista de reproducción al inicio"
 
 msgctxt "#31008"
 msgid "Full screen"
-msgstr "Pant. Completa"
+msgstr "Pant. completa"
 
 msgctxt "#31009"
 msgid "Total Duration"
-msgstr "Duración Total"
+msgstr "Duración total"
 
 msgctxt "#31010"
 msgid "Hardware decoding"
@@ -93,6 +93,10 @@ msgctxt "#31015"
 msgid "Video process information"
 msgstr "Información de proceso de video"
 
+msgctxt "#31016"
+msgid "Use Landscape Artwork"
+msgstr "Utilizar arte panorámico"
+
 msgctxt "#31017"
 msgid "Unavailable"
 msgstr "No disponible"
@@ -115,7 +119,7 @@ msgstr "Elementos"
 
 msgctxt "#31026"
 msgid "Misc Options"
-msgstr "Opciones Variadas"
+msgstr "Opciones misceláneas"
 
 msgctxt "#31027"
 msgid "Location"
@@ -131,7 +135,7 @@ msgstr "Fanart"
 
 msgctxt "#31030"
 msgid "Reset Skin"
-msgstr ""
+msgstr "Reiniciar máscara"
 
 msgctxt "#31031"
 msgid "Pic Thumbs"
@@ -147,15 +151,15 @@ msgstr "Info"
 
 msgctxt "#31034"
 msgid "Media Info 2"
-msgstr ""
+msgstr "Info de Medios 2"
 
 msgctxt "#31035"
 msgid "Media Info 3"
-msgstr ""
+msgstr "Info de Medios 3"
 
 msgctxt "#31036"
 msgid "Info 2"
-msgstr ""
+msgstr "Info 2"
 
 msgctxt "#31039"
 msgid "Actions"
@@ -163,7 +167,7 @@ msgstr "Acciones"
 
 msgctxt "#31040"
 msgid "Now Playing"
-msgstr "Reproduciendo Ahora"
+msgstr "Reproduciendo ahora"
 
 msgctxt "#31042"
 msgid "PLAYING"
@@ -183,15 +187,15 @@ msgstr "REBOBINAR"
 
 msgctxt "#31046"
 msgid "SEEKING"
-msgstr "BUSQUEDA"
+msgstr "BUSCANDO"
 
 msgctxt "#31048"
 msgid "Visualisation Presets"
-msgstr "Preajustes de Visualización"
+msgstr "Preajustes de visualización"
 
 msgctxt "#31049"
 msgid "End Time"
-msgstr "Hora de Finalización"
+msgstr "Hora de finalización"
 
 msgctxt "#31050"
 msgid "Sort: Ascending"
@@ -231,7 +235,7 @@ msgstr "Acualmente Seleccionado"
 
 msgctxt "#31062"
 msgid "Sorted by"
-msgstr ""
+msgstr "Ordenado por"
 
 msgctxt "#31063"
 msgid "minutes"
@@ -243,11 +247,11 @@ msgstr "Apagar"
 
 msgctxt "#31065"
 msgid "Context"
-msgstr ""
+msgstr "Contexto"
 
 msgctxt "#31066"
 msgid "Show Extra Fanart"
-msgstr ""
+msgstr "Mostrar fanart adicional"
 
 msgctxt "#31067"
 msgid "Path"
@@ -259,7 +263,7 @@ msgstr "Edad"
 
 msgctxt "#31069"
 msgid " - Path to music library"
-msgstr ""
+msgstr " - Ruta a biblioteca de música"
 
 msgctxt "#31070"
 msgid "by"
@@ -275,15 +279,15 @@ msgstr "Máscara"
 
 msgctxt "#31073"
 msgid "Debug options"
-msgstr ""
+msgstr "Opciones de depuración"
 
 msgctxt "#31074"
 msgid "Hide debug information"
-msgstr ""
+msgstr "Ocultar información de depuración"
 
 msgctxt "#31075"
 msgid "Reset all Skin Settings"
-msgstr ""
+msgstr "Reiniciar todos los ajustes de la máscara"
 
 msgctxt "#31101"
 msgid "Home screen options"
@@ -299,11 +303,11 @@ msgstr "Mostrar \"Pausa\" en presentacion de imágenes"
 
 msgctxt "#31104"
 msgid "Play Trailers in a window (Video Information Dialogue Only)"
-msgstr ""
+msgstr "Reproducir avances en una ventana (solo diálogo de información de video)"
 
 msgctxt "#31105"
 msgid "Mask background to hide submenu under transparent main menu"
-msgstr ""
+msgstr "Enmascarar fondo para ocultar el submenú bajo el menú principal transparente"
 
 msgctxt "#31106"
 msgid "Miscellaneous options"
@@ -311,7 +315,7 @@ msgstr "Opciones variadas"
 
 msgctxt "#31107"
 msgid "Hide Flagging read from video filenames (Blu-ray, HD-DVD)"
-msgstr ""
+msgstr "Ocultar marca de visto de nombres de archivo (Blu-ray, HD-DVD)"
 
 msgctxt "#31108"
 msgid "Hide Main Menu Buttons"
@@ -335,7 +339,7 @@ msgstr "Opciones"
 
 msgctxt "#31113"
 msgid "Multi-Image Background Timer:"
-msgstr ""
+msgstr "Tiempo de fondo de varias imágenes:"
 
 msgctxt "#31114"
 msgid "seconds"
@@ -343,7 +347,7 @@ msgstr "segundos"
 
 msgctxt "#31115"
 msgid "Auto-hide the Sub-menu"
-msgstr ""
+msgstr "Auto-ocultar el submenú"
 
 msgctxt "#31116"
 msgid "Show Recently added Albums"
@@ -355,7 +359,7 @@ msgstr "Mostrar Videos añadidos Recientemente"
 
 msgctxt "#31118"
 msgid "Home Page Programs Sub-menu"
-msgstr ""
+msgstr "Submenú de programas de la página principal"
 
 msgctxt "#31119"
 msgid "Hide Background Fanart"
@@ -363,11 +367,11 @@ msgstr "Esconder Fanart de Fondo"
 
 msgctxt "#31120"
 msgid "Single Image"
-msgstr ""
+msgstr "Imagen única"
 
 msgctxt "#31121"
 msgid "Multi-Image"
-msgstr ""
+msgstr "Varias imágenes"
 
 msgctxt "#31124"
 msgid "Show Background \"Now Playing\" Video"
@@ -395,11 +399,15 @@ msgstr "Ocultar Fanart en visualización de pantalla completa"
 
 msgctxt "#31130"
 msgid "Fanart slideshow (Artist Slideshow add-on)"
-msgstr ""
+msgstr "Presentación de fanart (complemento Artist Slideshow)"
 
 msgctxt "#31132"
 msgid "Lyrics Add-on"
 msgstr "Complemento de letras"
+
+msgctxt "#31133"
+msgid "Use submenu as widget"
+msgstr "Utilizar submenú como widget"
 
 msgctxt "#31134"
 msgid "Home Page Videos Sub-menu"
@@ -428,11 +436,11 @@ msgstr "Nivel de Ajustes"
 # empty strings from id 31143 to 31177
 msgctxt "#31178"
 msgid "Stop video on back"
-msgstr ""
+msgstr "Detener video al pulsar atrás"
 
 msgctxt "#31179"
 msgid "Always open fullscreen music playback"
-msgstr ""
+msgstr "Abrir siempre reproducción de música en pantalla completa"
 
 msgctxt "#31200"
 msgid "Shortcuts"
@@ -440,7 +448,7 @@ msgstr "Atajos"
 
 msgctxt "#31201"
 msgid "Experimental"
-msgstr ""
+msgstr "Experimental"
 
 msgctxt "#31203"
 msgid "Choose Your Song"
@@ -465,7 +473,7 @@ msgstr "Próximos Episodios"
 # empty strings from id 31209 to 31231
 msgctxt "#31232"
 msgid "Do not hide OSD infopanel on fullscreen music playback"
-msgstr ""
+msgstr "No ocultar el panel de información OSD al reproducir música en pantalla completa"
 
 msgctxt "#31300"
 msgid "Current Temp"
@@ -609,11 +617,11 @@ msgstr "Basado en Arial"
 
 msgctxt "#31393"
 msgid "Roboto Bold"
-msgstr ""
+msgstr "Roboto Negrita"
 
 msgctxt "#31394"
 msgid "Roboto Black (Boldest)"
-msgstr ""
+msgstr "Roboto Black (Más negrita)"
 
 msgctxt "#31400"
 msgid "[B]CONFIGURE APPEARANCE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Change file listing options[CR]Set up a screensaver"
@@ -750,19 +758,19 @@ msgstr "Mapas"
 # empty strings from id 31911 to 31916
 msgctxt "#31917"
 msgid "Light Theme"
-msgstr ""
+msgstr "tema claro"
 
 msgctxt "#31918"
 msgid "Dark Theme"
-msgstr ""
+msgstr "Tema oscuro"
 
 msgctxt "#31919"
 msgid "Choose colour"
-msgstr ""
+msgstr "Elegir color"
 
 msgctxt "#31920"
 msgid "Colour Picker"
-msgstr ""
+msgstr "Selector de color"
 
 msgctxt "#31921"
 msgid "Red"
@@ -770,7 +778,7 @@ msgstr "Rojo"
 
 msgctxt "#31922"
 msgid "Pink"
-msgstr ""
+msgstr "Rosa"
 
 msgctxt "#31923"
 msgid "Purple"
@@ -778,11 +786,11 @@ msgstr "Morado"
 
 msgctxt "#31924"
 msgid "Deep Purple"
-msgstr ""
+msgstr "Morado intenso"
 
 msgctxt "#31925"
 msgid "Indigo"
-msgstr ""
+msgstr "Índigo"
 
 msgctxt "#31926"
 msgid "Blue"
@@ -794,11 +802,11 @@ msgstr "Azul claro"
 
 msgctxt "#31928"
 msgid "Cyan"
-msgstr ""
+msgstr "Cian"
 
 msgctxt "#31929"
 msgid "Teal"
-msgstr ""
+msgstr "Verde azulado"
 
 msgctxt "#31930"
 msgid "Green"
@@ -806,11 +814,11 @@ msgstr "Verde"
 
 msgctxt "#31931"
 msgid "Light Green"
-msgstr ""
+msgstr "Verde claro"
 
 msgctxt "#31932"
 msgid "Lime"
-msgstr ""
+msgstr "Lima"
 
 msgctxt "#31933"
 msgid "Yellow"
@@ -818,7 +826,7 @@ msgstr "Amarillo"
 
 msgctxt "#31934"
 msgid "Amber"
-msgstr ""
+msgstr "Ámbar"
 
 msgctxt "#31935"
 msgid "Orange"
@@ -826,15 +834,15 @@ msgstr "Naranja"
 
 msgctxt "#31936"
 msgid "Deep Orange"
-msgstr ""
+msgstr "Naranja intenso"
 
 msgctxt "#31937"
 msgid "Brown"
-msgstr ""
+msgstr "Café"
 
 msgctxt "#31938"
 msgid "Blue Grey"
-msgstr ""
+msgstr "Gris azulado"
 
 msgctxt "#31939"
 msgid "Grey"
@@ -842,7 +850,7 @@ msgstr "Gris"
 
 msgctxt "#31940"
 msgid "Welcome"
-msgstr ""
+msgstr "Bienvenido"
 
 msgctxt "#31950"
 msgid "WEATHER"
