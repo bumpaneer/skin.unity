@@ -93,6 +93,10 @@ msgctxt "#31015"
 msgid "Video process information"
 msgstr ""
 
+msgctxt "#31016"
+msgid "Use Landscape Artwork"
+msgstr ""
+
 # empty string with id 31016
 msgctxt "#31017"
 msgid "Unavailable"
@@ -401,6 +405,10 @@ msgstr ""
 msgctxt "#31132"
 msgid "Lyrics Add-on"
 msgstr "Барномаи иловагии лирика"
+
+msgctxt "#31133"
+msgid "Use submenu as widget"
+msgstr ""
 
 msgctxt "#31134"
 msgid "Home Page Videos Sub-menu"
