@@ -7,19 +7,19 @@ msgstr ""
 "Project-Id-Version: KODI Skins\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2022-05-18 18:14+0000\n"
-"Last-Translator: taxigps <taxigps@sina.com>\n"
-"Language-Team: Chinese (China) <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-unity/zh_cn/>\n"
+"PO-Revision-Date: 2026-08-03 05:16+0000\n"
+"Last-Translator: wabisabi926 <wabisabi926@foxmail.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-unity/zh_Hans/>\n"
 "Language: zh_cn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.12.2\n"
+"X-Generator: Weblate 2026.7.1\n"
 
 msgctxt "Addon Summary"
 msgid "A material skin for Kodi by Eddage"
-msgstr "Eddage给KODI做的一个材质皮肤"
+msgstr "Eddage 给 Kodi 做的一个材质皮肤"
 
 msgctxt "Addon Description"
 msgid "Unity is an adaptation of Confluence based on a material design."
@@ -27,7 +27,7 @@ msgstr "Unity是Confluence基于Material Design的改编。"
 
 msgctxt "Addon Disclaimer"
 msgid "More info on the skin can be found at the Kodi Forums."
-msgstr "更多关于皮肤的信息可以在KODI论坛上找到。"
+msgstr "更多关于皮肤的信息可以在 Kodi 论坛上找到。"
 
 msgctxt "#31000"
 msgid "Change Your"
@@ -123,7 +123,7 @@ msgstr "杂项"
 
 msgctxt "#31027"
 msgid "Location"
-msgstr "所在地"
+msgstr "位置"
 
 msgctxt "#31028"
 msgid "Poster Wrap"
@@ -131,7 +131,7 @@ msgstr "海报卷动"
 
 msgctxt "#31029"
 msgid "Fanart"
-msgstr "同人画"
+msgstr "背景图"
 
 msgctxt "#31030"
 msgid "Reset Skin"
@@ -251,7 +251,7 @@ msgstr "语境"
 
 msgctxt "#31066"
 msgid "Show Extra Fanart"
-msgstr "显示额外背景插图"
+msgstr "显示额外背景图"
 
 msgctxt "#31067"
 msgid "Path"
@@ -327,7 +327,7 @@ msgstr "启用自定义背景"
 
 msgctxt "#31110"
 msgid "Background path:"
-msgstr "背景图路径："
+msgstr "背景路径："
 
 msgctxt "#31111"
 msgid "Hide"
@@ -363,7 +363,7 @@ msgstr "主界面程序子菜单"
 
 msgctxt "#31119"
 msgid "Hide Background Fanart"
-msgstr "隐藏同人画背景"
+msgstr "隐藏背景艺术图"
 
 msgctxt "#31120"
 msgid "Single Image"
@@ -395,11 +395,11 @@ msgstr "歌词"
 
 msgctxt "#31129"
 msgid "Hide Fanart in full screen visualisation"
-msgstr "全屏可视化效果中隐藏同人画"
+msgstr "全屏可视化效果中隐藏背景图"
 
 msgctxt "#31130"
 msgid "Fanart slideshow (Artist Slideshow add-on)"
-msgstr "背景插图幻灯片（艺术家幻灯片加载项）"
+msgstr "背景图幻灯片（艺术家幻灯片加载项）"
 
 msgctxt "#31132"
 msgid "Lyrics Add-on"
@@ -407,7 +407,7 @@ msgstr "歌词插件"
 
 msgctxt "#31133"
 msgid "Use submenu as widget"
-msgstr "将子菜单用作小部件"
+msgstr "将子菜单用作小组件"
 
 msgctxt "#31134"
 msgid "Home Page Videos Sub-menu"
@@ -489,7 +489,7 @@ msgstr "数据来源"
 
 msgctxt "#31307"
 msgid "Hide Fanart"
-msgstr "隐藏同人画"
+msgstr "隐藏背景图"
 
 msgctxt "#31308"
 msgid "Movie Details"
@@ -505,7 +505,7 @@ msgstr "音轨号"
 
 msgctxt "#31311"
 msgid "Fanart image[CR][CR]Unavailable[CR][CR] Click button to set"
-msgstr "同人画图片[CR][CR]不可用[CR][CR]按键设置"
+msgstr "背景图图像[CR][CR]不可用[CR][CR]按键设置"
 
 msgctxt "#31312"
 msgid "Current Scraper"
@@ -521,7 +521,7 @@ msgstr "内容扫描选项"
 
 msgctxt "#31317"
 msgid "Set Fanart Path"
-msgstr "设置同人画目录"
+msgstr "设置背景图路径"
 
 msgctxt "#31319"
 msgid "Selected Profile"
@@ -533,7 +533,7 @@ msgstr "最近登录"
 
 msgctxt "#31321"
 msgid "Karaoke Song Selector"
-msgstr "卡拉OK歌曲选择器"
+msgstr "卡拉 OK 歌曲选择器"
 
 msgctxt "#31322"
 msgid "Aired"
@@ -557,7 +557,7 @@ msgstr "最新加入"
 
 msgctxt "#31329"
 msgid "[B]Timer set![/B] [COLOR=grey2] - System auto shutdown in[/COLOR]"
-msgstr "[B]时钟设置！[/B] [COLOR=grey2] - 系统自动关闭于[/COLOR]"
+msgstr "[B]计时器设置！[/B] [COLOR=grey2] - 系统自动关闭于[/COLOR]"
 
 msgctxt "#31330"
 msgid "Click button to play[CR][CR]Movie trailer"
@@ -593,7 +593,7 @@ msgstr "下载字幕"
 
 msgctxt "#31360"
 msgid "Watch as 2D"
-msgstr "按2D模式观看"
+msgstr "按 2D 模式观看"
 
 msgctxt "#31361"
 msgid "Change mode"
@@ -895,7 +895,7 @@ msgstr "电影"
 
 msgctxt "#31955"
 msgid "TV SHOWS"
-msgstr "剧集"
+msgstr "电视剧"
 
 msgctxt "#31956"
 msgid "MUSIC"
