@@ -7,27 +7,27 @@ msgstr ""
 "Project-Id-Version: KODI Skins\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"PO-Revision-Date: 2023-07-30 13:11+0000\n"
-"Last-Translator: Andreas Bolin <bolin.andreas@gmail.com>\n"
+"PO-Revision-Date: 2026-11-02 22:25+0000\n"
+"Last-Translator: Daniel Nylander <daniel@danielnylander.se>\n"
 "Language-Team: Swedish <https://kodi.weblate.cloud/projects/kodi-add-ons-skins/skin-unity/sv_se/>\n"
 "Language: sv_se\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18.2\n"
+"X-Generator: Weblate 2026.11\n"
 
 msgctxt "Addon Summary"
 msgid "A material skin for Kodi by Eddage"
-msgstr ""
+msgstr "Ett materialskal för Kodi av Eddage"
 
 msgctxt "Addon Description"
 msgid "Unity is an adaptation of Confluence based on a material design."
-msgstr ""
+msgstr "Unity är en anpassning av Confluence baserad på en materialdesign."
 
 msgctxt "Addon Disclaimer"
 msgid "More info on the skin can be found at the Kodi Forums."
-msgstr ""
+msgstr "Mer information om skalet finns på Kodi Forums."
 
 msgctxt "#31000"
 msgid "Change Your"
@@ -55,11 +55,11 @@ msgstr "Dölj information"
 
 msgctxt "#31006"
 msgid "View Options"
-msgstr "Vy alternativ"
+msgstr "Visningsalternativ"
 
 msgctxt "#31007"
 msgid "Enable playlist at startup"
-msgstr ""
+msgstr "Aktivera spellista vid start"
 
 msgctxt "#31008"
 msgid "Full screen"
@@ -95,7 +95,7 @@ msgstr "Videoprocess information"
 
 msgctxt "#31016"
 msgid "Use Landscape Artwork"
-msgstr ""
+msgstr "Använd landskapsbakgrund"
 
 msgctxt "#31017"
 msgid "Unavailable"
@@ -119,7 +119,7 @@ msgstr "Objekt"
 
 msgctxt "#31026"
 msgid "Misc Options"
-msgstr "Övr. alternativ"
+msgstr "Diverse alternativ"
 
 msgctxt "#31027"
 msgid "Location"
@@ -127,7 +127,7 @@ msgstr "Plats"
 
 msgctxt "#31028"
 msgid "Poster Wrap"
-msgstr "Omslagssvep"
+msgstr "Poster Wrap"
 
 msgctxt "#31029"
 msgid "Fanart"
@@ -151,15 +151,15 @@ msgstr "Info"
 
 msgctxt "#31034"
 msgid "Media Info 2"
-msgstr ""
+msgstr "Media Info 2"
 
 msgctxt "#31035"
 msgid "Media Info 3"
-msgstr ""
+msgstr "Media Info 3"
 
 msgctxt "#31036"
 msgid "Info 2"
-msgstr ""
+msgstr "Info 2"
 
 msgctxt "#31039"
 msgid "Actions"
@@ -167,7 +167,7 @@ msgstr "Åtgärder"
 
 msgctxt "#31040"
 msgid "Now Playing"
-msgstr "Nu spelas"
+msgstr "Spelas nu"
 
 msgctxt "#31042"
 msgid "PLAYING"
@@ -191,7 +191,7 @@ msgstr "SÖKER"
 
 msgctxt "#31048"
 msgid "Visualisation Presets"
-msgstr "Visualiseringsval"
+msgstr "Förval för visualisering"
 
 msgctxt "#31049"
 msgid "End Time"
@@ -235,7 +235,7 @@ msgstr "Nuvarande vald"
 
 msgctxt "#31062"
 msgid "Sorted by"
-msgstr ""
+msgstr "Sorterade efter"
 
 msgctxt "#31063"
 msgid "minutes"
@@ -243,19 +243,19 @@ msgstr "minuter"
 
 msgctxt "#31064"
 msgid "Shutdown"
-msgstr ""
+msgstr "Stäng ner"
 
 msgctxt "#31065"
 msgid "Context"
-msgstr ""
+msgstr "Kontext"
 
 msgctxt "#31066"
 msgid "Show Extra Fanart"
-msgstr ""
+msgstr "Visa extra fanart"
 
 msgctxt "#31067"
 msgid "Path"
-msgstr ""
+msgstr "Sökväg"
 
 msgctxt "#31068"
 msgid "Age"
@@ -263,7 +263,7 @@ msgstr "Ålder"
 
 msgctxt "#31069"
 msgid " - Path to music library"
-msgstr ""
+msgstr " - Sökväg till musikbiblioteket"
 
 msgctxt "#31070"
 msgid "by"
@@ -271,23 +271,23 @@ msgstr "av"
 
 msgctxt "#31071"
 msgid "current"
-msgstr ""
+msgstr "aktuell"
 
 msgctxt "#31072"
 msgid "Skin"
-msgstr "Skin Settings"
+msgstr "Skal"
 
 msgctxt "#31073"
 msgid "Debug options"
-msgstr ""
+msgstr "Felsökningsalternativ"
 
 msgctxt "#31074"
 msgid "Hide debug information"
-msgstr ""
+msgstr "Dölj felsökningsinformation"
 
 msgctxt "#31075"
 msgid "Reset all Skin Settings"
-msgstr ""
+msgstr "Återställ alla skalinställningar"
 
 msgctxt "#31101"
 msgid "Home screen options"
@@ -303,11 +303,11 @@ msgstr "Visa \"Pausad\" i bildspel"
 
 msgctxt "#31104"
 msgid "Play Trailers in a window (Video Information Dialogue Only)"
-msgstr ""
+msgstr "Spela upp trailers i ett fönster (endast videoinformation och dialog)"
 
 msgctxt "#31105"
 msgid "Mask background to hide submenu under transparent main menu"
-msgstr ""
+msgstr "Maskera bakgrunden för att dölja undermenyn under transparent huvudmeny"
 
 msgctxt "#31106"
 msgid "Miscellaneous options"
@@ -315,7 +315,7 @@ msgstr "Övriga alternativ"
 
 msgctxt "#31107"
 msgid "Hide Flagging read from video filenames (Blu-ray, HD-DVD)"
-msgstr ""
+msgstr "Dölj Flagging läst från videofilnamn (Blu-ray, HD-DVD)"
 
 msgctxt "#31108"
 msgid "Hide Main Menu Buttons"
@@ -339,7 +339,7 @@ msgstr "Alternativ"
 
 msgctxt "#31113"
 msgid "Multi-Image Background Timer:"
-msgstr ""
+msgstr "Timer för flera bilder i bakgrunden:"
 
 msgctxt "#31114"
 msgid "seconds"
@@ -347,7 +347,7 @@ msgstr "sekunder"
 
 msgctxt "#31115"
 msgid "Auto-hide the Sub-menu"
-msgstr ""
+msgstr "Dölj undermenyn automatiskt"
 
 msgctxt "#31116"
 msgid "Show Recently added Albums"
@@ -371,15 +371,15 @@ msgstr "Enstaka bild"
 
 msgctxt "#31121"
 msgid "Multi-Image"
-msgstr ""
+msgstr "Flera bilder"
 
 msgctxt "#31124"
 msgid "Show Background \"Now Playing\" Video"
-msgstr "Visa bakgrund \"Nu spelas\" filmer"
+msgstr "Visa bakgrundsvideo \"Spelas nu\""
 
 msgctxt "#31125"
 msgid "Show Background \"Now Playing\" Visualisation"
-msgstr "Visa \"Spelas nu\" backgrundsvisualisering"
+msgstr "Visa visualisering av bakgrund \"Spelas nu\""
 
 msgctxt "#31126"
 msgid "Play TV theme songs in video library (TvTunes add-on)"
@@ -395,19 +395,19 @@ msgstr "Sångtexter"
 
 msgctxt "#31129"
 msgid "Hide Fanart in full screen visualisation"
-msgstr "Dölj fanart i fullskärmsvisualisering"
+msgstr "Dölj fanart i helskärmsvisualisering"
 
 msgctxt "#31130"
 msgid "Fanart slideshow (Artist Slideshow add-on)"
-msgstr ""
+msgstr "Bildspel för fanart (tillägget Artistbildspel)"
 
 msgctxt "#31132"
 msgid "Lyrics Add-on"
-msgstr "Sångtextstillägg"
+msgstr "Låttextstillägg"
 
 msgctxt "#31133"
 msgid "Use submenu as widget"
-msgstr ""
+msgstr "Använd undermeny som widget"
 
 msgctxt "#31134"
 msgid "Home Page Videos Sub-menu"
@@ -436,11 +436,11 @@ msgstr "Inställningsnivå"
 # empty strings from id 31143 to 31177
 msgctxt "#31178"
 msgid "Stop video on back"
-msgstr ""
+msgstr "Stoppa video på bak"
 
 msgctxt "#31179"
 msgid "Always open fullscreen music playback"
-msgstr ""
+msgstr "Öppna alltid musikuppspelning i helskärm"
 
 msgctxt "#31200"
 msgid "Shortcuts"
@@ -448,7 +448,7 @@ msgstr "Genvägar"
 
 msgctxt "#31201"
 msgid "Experimental"
-msgstr ""
+msgstr "Experimentell"
 
 msgctxt "#31203"
 msgid "Choose Your Song"
@@ -473,7 +473,7 @@ msgstr "Kommande avsnitt"
 # empty strings from id 31209 to 31231
 msgctxt "#31232"
 msgid "Do not hide OSD infopanel on fullscreen music playback"
-msgstr ""
+msgstr "Dölj inte OSD-infopanelen vid musikuppspelning i helskärm"
 
 msgctxt "#31300"
 msgid "Current Temp"
@@ -533,7 +533,7 @@ msgstr "Senast inloggad"
 
 msgctxt "#31321"
 msgid "Karaoke Song Selector"
-msgstr "Karaoke-låtväljare"
+msgstr "Väljare för karaoke-låt"
 
 msgctxt "#31322"
 msgid "Aired"
@@ -617,11 +617,11 @@ msgstr "Arialbaserad"
 
 msgctxt "#31393"
 msgid "Roboto Bold"
-msgstr ""
+msgstr "Roboto fet stil"
 
 msgctxt "#31394"
 msgid "Roboto Black (Boldest)"
-msgstr ""
+msgstr "Roboto Black (fetast)"
 
 msgctxt "#31400"
 msgid "[B]CONFIGURE APPEARANCE SETTINGS[/B][CR][CR]Change the skin · Set language and region · Change file listing options[CR]Set up a screensaver"
@@ -645,7 +645,7 @@ msgstr "[B]KONFIGURERA VÄDERINSTÄLLNINGAR[/B][CR][CR]Ange tre städer för ins
 
 msgctxt "#31406"
 msgid "[B]CONFIGURE SYSTEM SETTINGS[/B][CR][CR]Setup and calibrate displays · Configure audio output · Setup remote controls[CR]Set power saving options · Enable debugging · Setup master lock"
-msgstr "[B]KONFIGURERA SYSTEMINSTÄLLNINGAR[/B][CR][CR]Ange och kalibrera bildskärmar · Konfigurera ljudutgång · Ställa in fjärrkontroller[CR]Ange energisparalternativ · Aktivera debuggningen · Konfigurera huvudkod och lås"
+msgstr "[B]KONFIGURERA SYSTEMINSTÄLLNINGAR[/B][CR][CR]Ange och kalibrera bildskärmar · Konfigurera ljudutgång · Ställa in fjärrkontroller[CR]Ange energisparalternativ · Aktivera felsökning · Konfigurera huvudkod och lås"
 
 msgctxt "#31408"
 msgid "[B]CONFIGURE ADD-ONS[/B][CR][CR]Manage your installed Add-ons · Browse for and install Add-ons from kodi.tv[CR]Modify Add-on settings"
@@ -693,7 +693,7 @@ msgstr "Schemalagd tid"
 
 msgctxt "#31502"
 msgid "Live TV"
-msgstr "Live-TV"
+msgstr "Direktsänd TV"
 
 msgctxt "#31503"
 msgid "Add Group"
@@ -726,11 +726,11 @@ msgstr "Kanalalternativ"
 # empty strings from id 31512 to 31609
 msgctxt "#31610"
 msgid "Artwork Type"
-msgstr ""
+msgstr "Bakgrundstyp"
 
 msgctxt "#31611"
 msgid "Poster"
-msgstr "Poster"
+msgstr "Affisch"
 
 msgctxt "#31612"
 msgid "Square"
@@ -758,7 +758,7 @@ msgstr "Helgprognos"
 
 msgctxt "#31904"
 msgid "Daily Forecast"
-msgstr "Daglig prognos"
+msgstr "Dygnsprognos"
 
 msgctxt "#31905"
 msgid "Forecast"
@@ -779,35 +779,35 @@ msgstr "Kartor"
 # empty strings from id 31911 to 31916
 msgctxt "#31917"
 msgid "Light Theme"
-msgstr ""
+msgstr "Ljust tema"
 
 msgctxt "#31918"
 msgid "Dark Theme"
-msgstr ""
+msgstr "Mörkt tema"
 
 msgctxt "#31919"
 msgid "Choose colour"
-msgstr ""
+msgstr "Välj färg"
 
 msgctxt "#31920"
 msgid "Colour Picker"
-msgstr ""
+msgstr "Färgväljare"
 
 msgctxt "#31921"
 msgid "Red"
-msgstr ""
+msgstr "Röd"
 
 msgctxt "#31922"
 msgid "Pink"
-msgstr ""
+msgstr "Rosa"
 
 msgctxt "#31923"
 msgid "Purple"
-msgstr ""
+msgstr "Lila"
 
 msgctxt "#31924"
 msgid "Deep Purple"
-msgstr ""
+msgstr "Mörklila"
 
 msgctxt "#31925"
 msgid "Indigo"
@@ -815,19 +815,19 @@ msgstr "Indigo"
 
 msgctxt "#31926"
 msgid "Blue"
-msgstr ""
+msgstr "Blå"
 
 msgctxt "#31927"
 msgid "Light Blue"
-msgstr ""
+msgstr "Ljusblå"
 
 msgctxt "#31928"
 msgid "Cyan"
-msgstr ""
+msgstr "Cyan"
 
 msgctxt "#31929"
 msgid "Teal"
-msgstr ""
+msgstr "Turkos"
 
 msgctxt "#31930"
 msgid "Green"
@@ -835,15 +835,15 @@ msgstr "Grön"
 
 msgctxt "#31931"
 msgid "Light Green"
-msgstr ""
+msgstr "Ljusgrön"
 
 msgctxt "#31932"
 msgid "Lime"
-msgstr ""
+msgstr "Lime"
 
 msgctxt "#31933"
 msgid "Yellow"
-msgstr ""
+msgstr "Gul"
 
 msgctxt "#31934"
 msgid "Amber"
@@ -851,27 +851,27 @@ msgstr "Amber"
 
 msgctxt "#31935"
 msgid "Orange"
-msgstr ""
+msgstr "Orange"
 
 msgctxt "#31936"
 msgid "Deep Orange"
-msgstr ""
+msgstr "Mörkorange"
 
 msgctxt "#31937"
 msgid "Brown"
-msgstr ""
+msgstr "Brun"
 
 msgctxt "#31938"
 msgid "Blue Grey"
-msgstr ""
+msgstr "Blågrå"
 
 msgctxt "#31939"
 msgid "Grey"
-msgstr ""
+msgstr "Grå"
 
 msgctxt "#31940"
 msgid "Welcome"
-msgstr ""
+msgstr "Välkommen"
 
 msgctxt "#31950"
 msgid "WEATHER"
